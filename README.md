@@ -6,6 +6,14 @@ Node 22+ · TypeScript · Express 5 · MongoDB · zod. Each module has its own m
 
 Frontend: [`dulaedee-client-web`](https://github.com/Teruakii/dulaedee-client-web)
 
+## Screenshots
+
+More in the [frontend README](https://github.com/Teruakii/dulaedee-client-web).
+
+| Today | Food | Summary | Group challenge |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/Teruakii/dulaedee-client-web/main/.github/screenshots/today.png" width="200" alt="today"> | <img src="https://raw.githubusercontent.com/Teruakii/dulaedee-client-web/main/.github/screenshots/food.png" width="200" alt="food"> | <img src="https://raw.githubusercontent.com/Teruakii/dulaedee-client-web/main/.github/screenshots/summary.png" width="200" alt="summary"> | <img src="https://raw.githubusercontent.com/Teruakii/dulaedee-client-web/main/.github/screenshots/group.png" width="200" alt="group"> |
+
 ## Getting started
 
 ```bash
