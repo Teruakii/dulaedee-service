@@ -6,7 +6,7 @@ Node 22+ · TypeScript · Express 5 · MongoDB · zod. โครงเดีย�
 
 ## หน้าตาแอป
 
-หน้าเว็บอยู่ที่ [`dulaedee-client-web`](https://github.com/Teruakii/dulaedee-client-web) ดูภาพทุกหน้าและที่มาของดีไซน์ได้ใน README ของ repo นั้น
+หน้าเว็บอยู่ที่ [`dulaedee-client-web`](https://github.com/Teruakii/dulaedee-client-web) ดูภาพทุกหน้าได้ใน README ของ repo นั้น
 
 | วันนี้ | อาหาร | สรุปและเหรียญ | ชาเลนจ์กลุ่ม |
 |---|---|---|---|
