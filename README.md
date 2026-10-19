@@ -4,6 +4,14 @@ API ของแอป "ดูแลดี" สำหรับนับแคล
 
 Node 22+ · TypeScript · Express 5 · MongoDB · zod. โครงเดียวกับ `careo-service`: แต่ละ module มี model, dto, repo, service, handler และ module
 
+## หน้าตาแอป
+
+หน้าเว็บอยู่ที่ [`dulaedee-client-web`](https://github.com/Teruakii/dulaedee-client-web) ดูภาพทุกหน้าและที่มาของดีไซน์ได้ใน README ของ repo นั้น
+
+| วันนี้ | อาหาร | สรุปและเหรียญ | ชาเลนจ์กลุ่ม |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/Teruakii/dulaedee-client-web/main/docs/screenshots/today.png" width="200" alt="หน้าวันนี้"> | <img src="https://raw.githubusercontent.com/Teruakii/dulaedee-client-web/main/docs/screenshots/food.png" width="200" alt="หน้าอาหาร"> | <img src="https://raw.githubusercontent.com/Teruakii/dulaedee-client-web/main/docs/screenshots/summary.png" width="200" alt="หน้าสรุป"> | <img src="https://raw.githubusercontent.com/Teruakii/dulaedee-client-web/main/docs/screenshots/group.png" width="200" alt="ชาเลนจ์กลุ่ม"> |
+
 ## เริ่มใช้งาน
 
 ```bash
