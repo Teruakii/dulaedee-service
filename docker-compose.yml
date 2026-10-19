@@ -1,0 +1,13 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: dulaedee-mongo
+    restart: unless-stopped
+    # เปิดเฉพาะเครื่องนี้ · MongoDB ตัวนี้ไม่มีรหัสผ่าน ถ้าเปิดทุก interface ใครในเครือข่ายก็อ่านข้อมูลได้
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:
